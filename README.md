@@ -1,1 +1,2 @@
-# This is Collaborated project
+# This is readme.md file
+# it contains the  information about project
